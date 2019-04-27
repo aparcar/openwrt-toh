@@ -1,0 +1,22 @@
+{
+    "device_type": "WiFi Router",
+    "brand": "Sitecom",
+    "model": "WL-4001",
+    "version": "v1 001",
+    "availability": "unknown 2018",
+    "unsupported_functions": "Possible to support",
+    "cpu": "Realtek RTL8198",
+    "cpu_cores": "1",
+    "cpu_mhz": "620",
+    "flash_mb": "4",
+    "ram_mb": "64",
+    "ethernet_gbit_ports": "5",
+    "wlan_hardware": "Realtek RTL8192CE",
+    "wlan_24ghz": "b/g/n",
+    "wlan_driver": "rtl819x",
+    "serial": true,
+    "jtag": true,
+    "device_page": "wl-4001",
+    "forum_search": "WL-4001",
+    "git_search": "WL-4001"
+}

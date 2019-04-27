@@ -1,0 +1,21 @@
+{
+    "device_type": "Router",
+    "brand": "Buffalo",
+    "model": "WZR-RS-G54",
+    "availability": "Discontinued",
+    "gluon_support": true,
+    "target": "brcm47xx",
+    "subtarget": "legacy",
+    "package_architecture": "mipsel_mips32",
+    "cpu": "Broadcom BCM4704KPBG",
+    "cpu_cores": "1",
+    "cpu_mhz": "333",
+    "flash_mb": "8",
+    "ram_mb": "64",
+    "comments_network_ports": "4",
+    "wlan_driver": "unknown",
+    "forum_search": "WZR-RS-G54",
+    "git_search": "WZR-RS-G54",
+    "oem_device_homepage_url": "http://buffalo.jp/products/catalog/item/w/wzr-rs-g54/",
+    "firmware_oem_stock_url": "http://buffalo.jp/download/driver/lan/wzr-rs-g54.html"
+}

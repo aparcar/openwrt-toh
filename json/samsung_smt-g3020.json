@@ -1,0 +1,22 @@
+{
+    "device_type": "Modem",
+    "brand": "Samsung",
+    "model": "SMT-G3020",
+    "availability": "Discontinued",
+    "target": "lantiq",
+    "bootloader": "U-Boot",
+    "cpu": "Infineon PSB50505",
+    "cpu_cores": "1",
+    "cpu_mhz": "235",
+    "flash_mb": "16",
+    "ram_mb": "64",
+    "ethernet_100m_ports": "4",
+    "modem": "ADSL2+",
+    "wlan_driver": "unknown",
+    "usb_ports": "1x 2.0",
+    "serial": true,
+    "jtag": true,
+    "device_page": "smt-g3xx0",
+    "forum_search": "SMT-G3020",
+    "git_search": "SMT-G3020"
+}

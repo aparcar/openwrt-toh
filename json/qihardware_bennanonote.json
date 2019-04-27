@@ -1,0 +1,19 @@
+{
+    "device_type": "other",
+    "brand": "Qi hardware",
+    "model": "Ben.Nanonote",
+    "availability": "Discontinued",
+    "cpu": "Ingenic JZ4720",
+    "cpu_cores": "1",
+    "cpu_mhz": "336",
+    "flash_mb": "2048NAND",
+    "ram_mb": "32",
+    "vlan": false,
+    "wlan_driver": "unknown",
+    "usb_ports": "1x 2.0 Device",
+    "serial": true,
+    "device_page": "ben.nanonote",
+    "forum_search": "Ben.Nanonote",
+    "git_search": "Ben.Nanonote",
+    "oem_device_homepage_url": "http://en.qi-hardware.com/wiki/Ben_NanoNote"
+}

@@ -1,0 +1,18 @@
+{
+    "device_type": "Modem",
+    "brand": "Cisco",
+    "model": "EPC3208G",
+    "availability": "Discontinued",
+    "unsupported_functions": "Possible to support",
+    "target": "brcm63xx",
+    "cpu": "Broadcom BCM3382",
+    "cpu_cores": "1",
+    "flash_mb": "16",
+    "ram_mb": "32",
+    "ethernet_gbit_ports": "1",
+    "modem": "DOCSIS",
+    "wlan_driver": "unknown",
+    "device_page": "epc3208g",
+    "forum_search": "EPC3208G",
+    "git_search": "EPC3208G"
+}

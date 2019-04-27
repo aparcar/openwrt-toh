@@ -1,0 +1,23 @@
+{
+    "device_type": "WiFi Router",
+    "brand": "Catch Tec",
+    "model": "CW5354U",
+    "availability": "Discontinued",
+    "target": "brcm47xx",
+    "subtarget": "legacy",
+    "package_architecture": "mipsel_mips32",
+    "cpu": "Broadcom BCM5354",
+    "cpu_cores": "1",
+    "cpu_mhz": "240",
+    "flash_mb": "16",
+    "ram_mb": "32",
+    "ethernet_100m_ports": "5",
+    "vlan": true,
+    "wlan_hardware": "Broadcom BCM4318",
+    "wlan_24ghz": "b/g",
+    "wlan_driver": "b43",
+    "usb_ports": "1x 2.0",
+    "device_page": "cw5354u",
+    "forum_search": "CW5354U",
+    "git_search": "CW5354U"
+}

@@ -1,0 +1,20 @@
+{
+    "device_type": "WiFi Router",
+    "brand": "D-Link",
+    "model": "DIR-410",
+    "version": "A1",
+    "availability": "Discontinued",
+    "cpu": "Realtek RTL8196",
+    "cpu_cores": "1",
+    "cpu_mhz": "330",
+    "flash_mb": "8",
+    "ram_mb": "32",
+    "ethernet_100m_ports": "5",
+    "wlan_hardware": "Realtek RTL8192",
+    "wlan_driver": "rtl819x",
+    "usb_ports": "1x 2.0",
+    "device_page": "dir-410",
+    "forum_search": "DIR-410",
+    "git_search": "DIR-410",
+    "wikidevi_url": "https://wikidevi.com/wiki/D-Link_DIR-410"
+}

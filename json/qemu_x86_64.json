@@ -1,0 +1,21 @@
+{
+    "device_type": "Emulator",
+    "brand": "QEMU (x86_64)",
+    "model": "qemu-system-x86_64",
+    "version": ">2.0",
+    "availability": "Available 2019",
+    "where_available": "qemu.org",
+    "supported_since_rel": "15.05",
+    "supported_current_rel": "15.05.1",
+    "target": "x86",
+    "subtarget": "64",
+    "package_architecture": "x86_64",
+    "cpu": "kvm x86_64",
+    "cpu_cores": "1",
+    "cpu_mhz": "Emulator",
+    "comments_network_ports": "1",
+    "wlan_driver": "unknown",
+    "device_page": "qemu",
+    "oem_device_homepage_url": "https://www.qemu.org/",
+    "installation_method_s": "see devicepage"
+}

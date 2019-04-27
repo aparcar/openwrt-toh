@@ -1,0 +1,23 @@
+{
+    "device_type": "Single Board Computer",
+    "brand": "Linksprite",
+    "model": "pcDuino2",
+    "availability": "Available 2019",
+    "where_available": "amazon.de",
+    "target": "sunxi",
+    "subtarget": "cortexa8",
+    "package_architecture": "arm_cortex-a8_vfpv3",
+    "cpu": "Allwinner A10",
+    "cpu_cores": "1",
+    "cpu_mhz": "1000",
+    "ram_mb": "1024",
+    "ethernet_100m_ports": "1",
+    "wlan_driver": "unknown",
+    "usb_ports": "2x 2.0",
+    "serial": true,
+    "jtag": false,
+    "device_page": "pcduino",
+    "forum_search": "pcDuino2",
+    "git_search": "pcDuino2",
+    "oem_device_homepage_url": "http://www.linksprite.com/linksprite-pcduino2/"
+}

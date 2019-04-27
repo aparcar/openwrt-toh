@@ -1,0 +1,19 @@
+{
+    "device_type": "Single Board Computer",
+    "brand": "Allnet",
+    "model": "ALL5001",
+    "availability": "Discontinued",
+    "unsupported_functions": "WIP",
+    "target": "at91",
+    "cpu": "Atmel AT91SAM9G45",
+    "cpu_cores": "1",
+    "cpu_mhz": "400",
+    "flash_mb": "256NAND",
+    "ram_mb": "64",
+    "vlan": false,
+    "comments_network_ports": "1",
+    "wlan_driver": "unknown",
+    "usb_ports": "4x 2.0",
+    "forum_search": "ALL5001",
+    "git_search": "ALL5001"
+}

@@ -1,0 +1,23 @@
+{
+    "device_type": "Router",
+    "brand": "Telsey",
+    "model": "CPVA500",
+    "availability": "Discontinued",
+    "unsupported_functions": "Impossible",
+    "target": "brcm63xx",
+    "cpu": "Broadcom BCM6345",
+    "cpu_cores": "1",
+    "cpu_mhz": "140",
+    "flash_mb": "4",
+    "ram_mb": "16",
+    "ethernet_100m_ports": "1",
+    "vlan": false,
+    "modem": "ADSL",
+    "wlan_driver": "unknown",
+    "usb_ports": "1x 1.1 Device",
+    "serial": true,
+    "serial_connection_parameters": "115200 / 8N1",
+    "device_page": "cpva500",
+    "forum_search": "CPVA500",
+    "git_search": "CPVA500"
+}

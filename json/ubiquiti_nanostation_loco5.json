@@ -1,0 +1,23 @@
+{
+    "device_type": "WiFi Router",
+    "brand": "Ubiquiti",
+    "model": "NanoStation Loco5",
+    "availability": "Discontinued",
+    "supported_since_rel": "8.09",
+    "supported_current_rel": "10.03.1",
+    "target": "ath25",
+    "bootloader": "RedBoot",
+    "cpu": "Atheros AR2313",
+    "cpu_cores": "1",
+    "cpu_mhz": "180",
+    "flash_mb": "4",
+    "ram_mb": "16",
+    "ethernet_100m_ports": "1",
+    "vlan": false,
+    "wlan_hardware": "Atheros AR2313",
+    "wlan_50ghz": "a",
+    "wlan_driver": "ath5k",
+    "device_page": "picostation5",
+    "forum_search": "NanoStation Loco5",
+    "git_search": "NanoStation Loco5"
+}

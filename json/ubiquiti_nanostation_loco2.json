@@ -1,0 +1,23 @@
+{
+    "device_type": "WiFi Router",
+    "brand": "Ubiquiti",
+    "model": "NanoStation Loco2",
+    "availability": "Discontinued",
+    "supported_since_rel": "8.09",
+    "supported_current_rel": "10.03.1",
+    "target": "ath25",
+    "cpu": "Atheros AR2315",
+    "cpu_cores": "1",
+    "cpu_mhz": "180",
+    "flash_mb": "4",
+    "ram_mb": "16",
+    "ethernet_100m_ports": "1",
+    "vlan": false,
+    "wlan_hardware": "Atheros AR2315",
+    "wlan_24ghz": "b/g",
+    "wlan_driver": "unknown",
+    "device_page": "nanostation",
+    "forum_search": "NanoStation Loco2",
+    "git_search": "NanoStation Loco2",
+    "firmware_openwrt_install_url": "http://archive.openwrt.org/backfire/10.03.1/atheros/openwrt-atheros-ubnt2-squashfs.bin"
+}

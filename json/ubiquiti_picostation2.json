@@ -1,0 +1,22 @@
+{
+    "device_type": "WiFi Router",
+    "brand": "Ubiquiti",
+    "model": "PicoStation 2",
+    "availability": "Discontinued",
+    "supported_since_rel": "10.03.1",
+    "supported_current_rel": "10.03.1",
+    "target": "ath25",
+    "cpu": "Atheros AR2315",
+    "cpu_cores": "1",
+    "cpu_mhz": "180",
+    "flash_mb": "8",
+    "ram_mb": "32",
+    "ethernet_100m_ports": "1",
+    "wlan_hardware": "Atheros AR2315",
+    "wlan_24ghz": "b/g",
+    "wlan_driver": "ath5k",
+    "power_supply": "Passive PoE",
+    "device_page": "nanostation",
+    "forum_search": "PicoStation 2",
+    "git_search": "PicoStation 2"
+}

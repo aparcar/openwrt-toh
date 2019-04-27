@@ -1,0 +1,23 @@
+{
+    "device_type": "WiFi Router",
+    "brand": "Cisco",
+    "model": "Valet Plus M20",
+    "version": "1.0",
+    "availability": "Available 2017",
+    "unsupported_functions": "Possible to support",
+    "target": "brcm47xx",
+    "subtarget": "mips74k",
+    "package_architecture": "mipsel_74kc",
+    "cpu": "Broadcom BCM4716",
+    "cpu_cores": "1",
+    "cpu_mhz": "300",
+    "flash_mb": "4",
+    "ram_mb": "32",
+    "ethernet_gbit_ports": "5",
+    "wlan_hardware": "Broadcom (integrated)",
+    "wlan_24ghz": "b/g/n",
+    "wlan_driver": "b43",
+    "forum_search": "Valet Plus M20",
+    "git_search": "Valet Plus M20",
+    "wikidevi_url": "https://wikidevi.com/wiki/Cisco_Valet_Plus_M20"
+}

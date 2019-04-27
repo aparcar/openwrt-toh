@@ -1,0 +1,21 @@
+{
+    "device_type": "Single Board Computer",
+    "brand": "Olimex",
+    "model": "A13-SOM-256",
+    "availability": "Available 2018",
+    "where_available": "olimex.com",
+    "target": "sunxi",
+    "subtarget": "cortexa8",
+    "package_architecture": "arm_cortex-a8_vfpv3",
+    "bootloader": "U-Boot",
+    "cpu": "Allwinner A13",
+    "cpu_cores": "1",
+    "cpu_mhz": "1000",
+    "ram_mb": "256",
+    "wlan_driver": "unknown",
+    "serial": true,
+    "jtag": false,
+    "device_page": "a13-olinuxino-som",
+    "forum_search": "A13-SOM-256",
+    "git_search": "A13-SOM-256"
+}

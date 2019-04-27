@@ -1,0 +1,23 @@
+{
+    "device_type": "Modem",
+    "brand": "Cisco",
+    "model": "DPC3825",
+    "availability": "Available 2017",
+    "unsupported_functions": "Possible to support",
+    "target": "brcm63xx",
+    "cpu": "Broadcom BCM3380",
+    "cpu_cores": "1",
+    "cpu_mhz": "333",
+    "flash_mb": "8",
+    "ram_mb": "64",
+    "ethernet_gbit_ports": "4",
+    "modem": "DOCSIS",
+    "wlan_hardware": "Broadcom BCM43225 (mini-PCIe)",
+    "wlan_24ghz": "b/g/n",
+    "usb_ports": "1x 2.0",
+    "serial": true,
+    "device_page": "epc3825",
+    "forum_search": "DPC3825",
+    "git_search": "DPC3825",
+    "wikidevi_url": "https://wikidevi.com/wiki/Cisco_DPC3825"
+}

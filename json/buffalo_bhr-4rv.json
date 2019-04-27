@@ -1,0 +1,21 @@
+{
+    "device_type": "Router",
+    "brand": "Buffalo",
+    "model": "BHR-4RV",
+    "availability": "Discontinued",
+    "target": "brcm47xx",
+    "subtarget": "legacy",
+    "package_architecture": "mipsel_mips32",
+    "cpu": "Broadcom BCM4704KPBG",
+    "cpu_cores": "1",
+    "cpu_mhz": "333",
+    "flash_mb": "8",
+    "ram_mb": "64",
+    "ethernet_100m_ports": "5",
+    "wlan_driver": "unknown",
+    "led_count": "8",
+    "device_page": "bhr-4rv",
+    "forum_search": "BHR-4RV",
+    "git_search": "BHR-4RV",
+    "oem_device_homepage_url": "http://buffalo.jp/products/catalog/item/b/bhr-4rv/"
+}

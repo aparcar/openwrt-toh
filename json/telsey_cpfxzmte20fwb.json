@@ -1,0 +1,22 @@
+{
+    "device_type": "WiFi Router",
+    "brand": "Telsey",
+    "model": "CPFXZMTE20FWB",
+    "availability": "unknown 2018",
+    "unsupported_functions": "Possible to support",
+    "target": "brcm63xx",
+    "subtarget": "generic",
+    "package_architecture": "mips_mips32",
+    "cpu": "Broadcom BCM6369",
+    "cpu_cores": "2",
+    "cpu_mhz": "400",
+    "ram_mb": "64",
+    "vlan": false,
+    "comments_network_ports": "4x Eth, 1x fiber, 2x RJ9",
+    "wlan_hardware": "Ralink RT2860T",
+    "wlan_24ghz": "b/g/n",
+    "wlan_driver": "rt2800pci",
+    "usb_ports": "2x 2.0",
+    "forum_search": "CPFXZMTE20FWB",
+    "git_search": "CPFXZMTE20FWB"
+}

@@ -1,0 +1,22 @@
+{
+    "device_type": "WiFi Router",
+    "brand": "Western Digital",
+    "model": "My Net AC Bridge",
+    "availability": "Available 2017",
+    "target": "brcm47xx",
+    "subtarget": "mips74k",
+    "package_architecture": "mipsel_74kc",
+    "cpu": "Broadcom BCM4706",
+    "cpu_cores": "1",
+    "cpu_mhz": "600",
+    "flash_mb": "8",
+    "ram_mb": "64",
+    "ethernet_gbit_ports": "4",
+    "wlan_hardware": "Broadcom BCM4360",
+    "wlan_50ghz": "a/n/ac",
+    "wlan_driver": "b43",
+    "device_page": "acbr",
+    "forum_search": "My Net AC Bridge",
+    "git_search": "My Net AC Bridge",
+    "wikidevi_url": "https://wikidevi.com/wiki/Western_Digital_My_Net_AC_Bridge"
+}

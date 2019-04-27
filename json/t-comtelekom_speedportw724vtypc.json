@@ -1,0 +1,23 @@
+{
+    "device_type": "WiFi Router",
+    "brand": "T-Com / Telekom",
+    "model": "Speedport W 724V Typ C",
+    "availability": "unknown 2018",
+    "target": "brcm63xx",
+    "bootloader": "Adam2",
+    "cpu": "Broadcom BCM63268 \u00bf",
+    "cpu_cores": "2",
+    "cpu_mhz": "400",
+    "flash_mb": "8",
+    "ram_mb": "32",
+    "ethernet_gbit_ports": "4",
+    "modem": "VDSL2",
+    "wlan_24ghz": "b/g/n",
+    "wlan_50ghz": "a/n/ac",
+    "wlan_driver": "unknown",
+    "usb_ports": "2x 2.0",
+    "serial": true,
+    "device_page": "spw724v",
+    "forum_search": "Speedport W 724V Typ C",
+    "git_search": "Speedport W 724V Typ C"
+}

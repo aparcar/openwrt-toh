@@ -1,0 +1,20 @@
+{
+    "device_type": "Emulator",
+    "brand": "QEMU (i386)",
+    "model": "qemu-system-i386",
+    "version": "0.12.5",
+    "availability": "Available 2019",
+    "where_available": "qemu.org",
+    "supported_since_rel": "10.03",
+    "supported_current_rel": "15.05.1",
+    "target": "x86",
+    "package_architecture": "i386_pentium4",
+    "cpu": "x86 kvm_guest",
+    "cpu_cores": "1",
+    "cpu_mhz": "Emulator",
+    "vlan": false,
+    "comments_network_ports": "2",
+    "device_page": "qemu",
+    "oem_device_homepage_url": "https://www.qemu.org/",
+    "installation_method_s": "see devicepage"
+}

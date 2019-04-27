@@ -1,0 +1,23 @@
+{
+    "device_type": "Modem",
+    "brand": "D-Link",
+    "model": "DSL-502T Gen II",
+    "version": "C5",
+    "availability": "Discontinued",
+    "unsupported_functions": "Impossible",
+    "target": "ar7",
+    "package_architecture": "mipsel_mips32",
+    "cpu": "Texas Instruments TNETD7200",
+    "cpu_cores": "1",
+    "cpu_mhz": "210",
+    "flash_mb": "4",
+    "ram_mb": "16",
+    "ethernet_100m_ports": "1",
+    "vlan": false,
+    "modem": "ADSL2+",
+    "wlan_driver": "unknown",
+    "usb_ports": "1x Device",
+    "device_page": "dsl-502t-genii",
+    "forum_search": "DSL-502T Gen II",
+    "git_search": "DSL-502T Gen II"
+}

@@ -1,0 +1,19 @@
+{
+    "device_type": "Emulator",
+    "brand": "QEMU (armvirt)",
+    "model": "qemu-system-arm",
+    "version": "0.12.5",
+    "availability": "Available 2019",
+    "where_available": "qemu.org",
+    "supported_since_rel": "14.07",
+    "supported_current_rel": "15.05.1",
+    "target": "armvirt",
+    "cpu": "armvirt",
+    "cpu_cores": "1",
+    "cpu_mhz": "Emulator",
+    "vlan": false,
+    "comments_network_ports": "1",
+    "device_page": "qemu",
+    "oem_device_homepage_url": "https://www.qemu.org/",
+    "installation_method_s": "see devicepage"
+}

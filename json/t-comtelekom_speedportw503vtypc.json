@@ -1,0 +1,22 @@
+{
+    "device_type": "WiFi Router",
+    "brand": "T-Com / Telekom",
+    "model": "Speedport W 503V Typ C",
+    "availability": "unknown 2018",
+    "target": "lantiq",
+    "cpu": "Lantiq Danube",
+    "cpu_cores": "1",
+    "cpu_mhz": "333",
+    "flash_mb": "4",
+    "ram_mb": "64",
+    "ethernet_100m_ports": "4",
+    "modem": "ADSL2+",
+    "wlan_hardware": "Atheros AR9220",
+    "wlan_24ghz": "b/g/n",
+    "wlan_50ghz": "a/n",
+    "wlan_driver": "ath9k",
+    "phone_ports": "2",
+    "device_page": "spw503vtypc",
+    "forum_search": "Speedport W 503V Typ C",
+    "git_search": "Speedport W 503V Typ C"
+}

@@ -1,0 +1,21 @@
+{
+    "device_type": "WiFi Router",
+    "brand": "Airlink101",
+    "model": "AR625W",
+    "availability": "Discontinued",
+    "unsupported_functions": "WIP",
+    "target": "orion",
+    "cpu": "Marvell 88F5181",
+    "cpu_cores": "1",
+    "cpu_mhz": "500",
+    "flash_mb": "8",
+    "ram_mb": "32",
+    "ethernet_100m_ports": "5",
+    "wlan_hardware": "Marvell",
+    "wlan_24ghz": "b/g/n",
+    "wlan_driver": "mwlwifi",
+    "device_page": "ar625w",
+    "forum_search": "AR625W",
+    "git_search": "AR625W",
+    "wikidevi_url": "https://wikidevi.com/wiki/Airlink101_AR625W"
+}

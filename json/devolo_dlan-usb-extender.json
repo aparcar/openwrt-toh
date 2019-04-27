@@ -1,0 +1,22 @@
+{
+    "device_type": "Modem",
+    "brand": "Devolo",
+    "model": "dlan-usb-extender",
+    "availability": "Discontinued",
+    "unsupported_functions": "Impossible",
+    "target": "mcs814x",
+    "bootloader": "U-Boot",
+    "cpu": "Moschip MCS8140",
+    "cpu_cores": "1",
+    "cpu_mhz": "175",
+    "flash_mb": "8",
+    "ram_mb": "16",
+    "ethernet_100m_ports": "1",
+    "modem": "Powerline",
+    "wlan_driver": "unknown",
+    "usb_ports": "1x 2.0",
+    "serial": true,
+    "device_page": "dlan-usb-extender",
+    "forum_search": "dlan-usb-extender",
+    "git_search": "dlan-usb-extender"
+}

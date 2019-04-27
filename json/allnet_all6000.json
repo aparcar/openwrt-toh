@@ -1,0 +1,22 @@
+{
+    "device_type": "Single Board Computer",
+    "brand": "Allnet",
+    "model": "ALL6000",
+    "availability": "Discontinued",
+    "unsupported_functions": "WIP",
+    "target": "kirkwood",
+    "subtarget": "generic",
+    "package_architecture": "arm_xscale",
+    "cpu": "Marvell 88F6281",
+    "cpu_cores": "1",
+    "cpu_mhz": "1200",
+    "flash_mb": "1024NAND",
+    "ram_mb": "128",
+    "ethernet_gbit_ports": "2",
+    "vlan": false,
+    "wlan_driver": "unknown",
+    "serial": true,
+    "forum_search": "ALL6000",
+    "git_search": "ALL6000",
+    "oem_device_homepage_url": "https://shop.allnet.de/detail/index/sArticle/234030"
+}

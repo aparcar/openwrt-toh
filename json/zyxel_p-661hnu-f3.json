@@ -1,0 +1,22 @@
+{
+    "device_type": "WiFi Router",
+    "brand": "ZyXEL",
+    "model": "P-661HNU-F3",
+    "availability": "Discontinued",
+    "unsupported_functions": "Possible to support",
+    "target": "lantiq",
+    "cpu": "AR9",
+    "cpu_cores": "1",
+    "cpu_mhz": "166",
+    "flash_mb": "16",
+    "ram_mb": "64",
+    "ethernet_gbit_ports": "4",
+    "modem": "ADSL2+",
+    "wlan_hardware": "Ralink RT3062F",
+    "wlan_driver": "unknown",
+    "usb_ports": "1x 2.0",
+    "serial": true,
+    "device_page": "zyxel_p661hnuf3",
+    "forum_search": "P-661HNU-F3",
+    "git_search": "P-661HNU-F3"
+}

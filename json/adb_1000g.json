@@ -1,0 +1,23 @@
+{
+    "device_type": "WiFi Router",
+    "brand": "ADB",
+    "model": "1000g",
+    "availability": "Discontinued",
+    "unsupported_functions": "Impossible",
+    "target": "lantiq",
+    "cpu": "Lantiq AMAZON-SE",
+    "cpu_cores": "1",
+    "cpu_mhz": "266",
+    "flash_mb": "4",
+    "ram_mb": "16",
+    "ethernet_gbit_ports": "2",
+    "vlan": false,
+    "modem": "ADSL",
+    "wlan_hardware": "Ralink RT2070L",
+    "wlan_24ghz": "b/g/n",
+    "wlan_driver": "unknown",
+    "serial": false,
+    "device_page": "1000g",
+    "forum_search": "1000g",
+    "git_search": "1000g"
+}

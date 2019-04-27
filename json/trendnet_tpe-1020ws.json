@@ -1,0 +1,23 @@
+{
+    "device_type": "Router",
+    "brand": "TRENDnet",
+    "model": "TPE-1020WS",
+    "version": "v1.1R",
+    "availability": "Available 2019",
+    "unsupported_functions": "WIP",
+    "target": "kirkwood",
+    "package_architecture": "arm_xscale",
+    "bootloader": "U-Boot",
+    "cpu": "Marvell 98dx4122",
+    "cpu_cores": "1",
+    "cpu_mhz": "500",
+    "flash_mb": "16",
+    "ram_mb": "128",
+    "ethernet_gbit_ports": "8",
+    "comments_network_ports": "(PoE)",
+    "wlan_driver": "unknown",
+    "serial": true,
+    "device_page": "tpe1020ws",
+    "forum_search": "TPE-1020WS",
+    "git_search": "TPE-1020WS"
+}

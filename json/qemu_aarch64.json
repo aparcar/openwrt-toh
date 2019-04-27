@@ -1,0 +1,19 @@
+{
+    "device_type": "Emulator",
+    "brand": "QEMU (aarch64)",
+    "model": "qemu-system-aarch64",
+    "version": ">2.0",
+    "availability": "Available 2019",
+    "where_available": "qemu.org",
+    "supported_since_rel": "15.05",
+    "package_architecture": "aarch64_armv8-a",
+    "cpu": "arm64",
+    "cpu_cores": "1",
+    "cpu_mhz": "Emulator",
+    "vlan": false,
+    "comments_network_ports": "1",
+    "jtag": false,
+    "device_page": "qemu",
+    "forum_search": "qemu",
+    "oem_device_homepage_url": "https://www.qemu.org/"
+}

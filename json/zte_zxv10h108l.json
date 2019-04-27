@@ -1,0 +1,23 @@
+{
+    "device_type": "WiFi Router",
+    "brand": "ZTE",
+    "model": "ZXV10 H108L",
+    "availability": "Discontinued",
+    "unsupported_functions": "Impossible",
+    "target": "lantiq",
+    "bootloader": "U-Boot",
+    "cpu": "Lantiq AMAZON-SE",
+    "cpu_cores": "1",
+    "cpu_mhz": "266",
+    "flash_mb": "4",
+    "ram_mb": "16",
+    "ethernet_100m_ports": "4",
+    "modem": "ADSL2+",
+    "wlan_hardware": "Atheros",
+    "wlan_24ghz": "b/g/n",
+    "wlan_driver": "unknown",
+    "serial": true,
+    "device_page": "zxv10h108l",
+    "forum_search": "ZTE ZXV10 H108L",
+    "git_search": "ZTE ZXV10 H108L"
+}

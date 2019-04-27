@@ -1,0 +1,20 @@
+{
+    "device_type": "Router",
+    "brand": "Scientific Atlanta",
+    "model": "EPX2203",
+    "availability": "Discontinued",
+    "unsupported_functions": "Possible to support",
+    "target": "brcm63xx",
+    "cpu": "Broadcom BCM3349",
+    "cpu_cores": "1",
+    "cpu_mhz": "200",
+    "flash_mb": "4",
+    "ram_mb": "32",
+    "ethernet_100m_ports": "1",
+    "comments_network_ports": "Cable, 2x VOIP",
+    "wlan_driver": "unknown",
+    "usb_ports": "1x Device",
+    "device_page": "epx2203",
+    "forum_search": "EPX2203",
+    "git_search": "EPX2203"
+}

@@ -1,0 +1,23 @@
+{
+    "device_type": "Single Board Computer",
+    "brand": "GL.iNet",
+    "model": "GL-M9331 Plus",
+    "availability": "Available 2017",
+    "target": "ar71xx",
+    "subtarget": "generic",
+    "package_architecture": "mips_24kc",
+    "cpu": "Atheros AR9331",
+    "cpu_cores": "1",
+    "cpu_mhz": "400",
+    "flash_mb": "16",
+    "ram_mb": "64",
+    "wlan_24ghz": "b/g/n",
+    "wlan_driver": "unknown",
+    "wlan_comments": "20dBm WiFi power",
+    "serial": true,
+    "jtag": true,
+    "forum_search": "GL-M9331 Plus",
+    "git_search": "GL-M9331 Plus",
+    "oem_device_homepage_url": "http://www.gl-inet.com/m9331-plus/",
+    "firmware_oem_stock_url": "http://www.gl-inet.com/m9331-plus/\\"
+}

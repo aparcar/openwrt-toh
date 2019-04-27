@@ -1,0 +1,21 @@
+{
+    "device_type": "Router",
+    "brand": "D-Link",
+    "model": "DSL-2542B/3B",
+    "version": "D2 (EU)",
+    "availability": "Discontinued",
+    "unsupported_functions": "Impossible",
+    "target": "brcm63xx",
+    "cpu": "Broadcom BCM6338",
+    "cpu_cores": "1",
+    "cpu_mhz": "240",
+    "flash_mb": "4",
+    "ram_mb": "16",
+    "ethernet_100m_ports": "4",
+    "vlan": true,
+    "modem": "ADSL",
+    "wlan_driver": "unknown",
+    "device_page": "dsl-2542b",
+    "forum_search": "DSL-2542B/3B",
+    "git_search": "DSL-2542B/3B"
+}

@@ -1,0 +1,22 @@
+{
+    "device_type": "Modem",
+    "brand": "Scientific Atlanta",
+    "model": "DPX2213",
+    "availability": "Discontinued",
+    "unsupported_functions": "Impossible",
+    "target": "brcm63xx",
+    "bootloader": "CFE",
+    "cpu": "Broadcom BCM3349",
+    "cpu_cores": "1",
+    "cpu_mhz": "200",
+    "flash_mb": "4",
+    "ram_mb": "16",
+    "ethernet_100m_ports": "1",
+    "wlan_driver": "unknown",
+    "usb_ports": "1x Device",
+    "serial": true,
+    "jtag": true,
+    "device_page": "thg520",
+    "forum_search": "DPX2213",
+    "git_search": "DPX2213"
+}

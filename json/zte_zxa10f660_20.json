@@ -1,0 +1,23 @@
+{
+    "device_type": "WiFi Router",
+    "brand": "ZTE",
+    "model": "ZXA10 F660",
+    "version": "2.0",
+    "availability": "Discontinued",
+    "unsupported_functions": "Possible to support",
+    "target": "brcm63xx",
+    "cpu": "Broadcom BCM6362\u00bf",
+    "cpu_cores": "1",
+    "cpu_mhz": "360",
+    "flash_mb": "16",
+    "ram_mb": "64",
+    "ethernet_gbit_ports": "4",
+    "comments_network_ports": "Fibre",
+    "wlan_hardware": "Broadcom",
+    "wlan_24ghz": "b/g/n",
+    "wlan_driver": "b43",
+    "usb_ports": "1x 2.0",
+    "device_page": "zxa10f660",
+    "forum_search": "ZTE ZXA10 F660",
+    "git_search": "ZTE ZXA10 F660"
+}

@@ -1,0 +1,21 @@
+{
+    "device_type": "Single Board Computer",
+    "brand": "Evaluation boards / unbranded boards",
+    "model": "Walkera QR Y100-Z-14 WiFi-02 Module",
+    "availability": "unknown 2018",
+    "target": "ar71xx",
+    "subtarget": "generic",
+    "package_architecture": "mips_24kc",
+    "cpu": "Atheros AR7240",
+    "cpu_cores": "1",
+    "cpu_mhz": "400",
+    "flash_mb": "4",
+    "ram_mb": "32",
+    "ethernet_100m_ports": "1",
+    "wlan_hardware": "Atheros AR9331",
+    "wlan_24ghz": "b/g/n",
+    "wlan_driver": "ath9k",
+    "usb_ports": "1x 2.0",
+    "forum_search": "Walkera QR Y100-Z-14 WiFi-02 Module",
+    "git_search": "Walkera QR Y100-Z-14 WiFi-02 Module"
+}

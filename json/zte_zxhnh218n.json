@@ -1,0 +1,22 @@
+{
+    "device_type": "WiFi Router",
+    "brand": "ZTE",
+    "model": "ZXHN H218N",
+    "availability": "Discontinued",
+    "target": "brcm47xx",
+    "subtarget": "mips74k",
+    "package_architecture": "mipsel_74kc",
+    "cpu": "Broadcom BCM5357",
+    "cpu_cores": "1",
+    "cpu_mhz": "500",
+    "flash_mb": "16",
+    "ram_mb": "64",
+    "ethernet_gbit_ports": "5",
+    "vlan": false,
+    "wlan_24ghz": "b/g/n",
+    "wlan_driver": "unknown",
+    "usb_ports": "2x 2.0",
+    "device_page": "h218n",
+    "forum_search": "ZTE ZXHN H218N",
+    "git_search": "ZTE ZXHN H218N"
+}

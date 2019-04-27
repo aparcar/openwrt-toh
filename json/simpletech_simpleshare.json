@@ -1,0 +1,21 @@
+{
+    "device_type": "NAS",
+    "brand": "SimpleTech",
+    "model": "SimpleShare",
+    "availability": "Discontinued",
+    "supported_since_rel": "10.03",
+    "supported_current_rel": "10.03",
+    "target": "brcm47xx",
+    "cpu": "Broadcom BCM4780",
+    "cpu_cores": "1",
+    "cpu_mhz": "300",
+    "flash_mb": "8",
+    "ram_mb": "32",
+    "vlan": false,
+    "comments_network_ports": "1",
+    "wlan_driver": "unknown",
+    "usb_ports": "2x 2.0",
+    "device_page": "simpleshare",
+    "forum_search": "SimpleShare",
+    "git_search": "SimpleShare"
+}

@@ -1,0 +1,22 @@
+{
+    "device_type": "WiFi Router",
+    "brand": "Asus",
+    "model": "RT-N76U",
+    "version": "1",
+    "availability": "Discontinued",
+    "unsupported_functions": "Possible to support",
+    "target": "brcm47xx",
+    "cpu": "Broadcom BCM4748",
+    "cpu_cores": "1",
+    "cpu_mhz": "533",
+    "flash_mb": "32",
+    "ram_mb": "128",
+    "ethernet_gbit_ports": "5",
+    "wlan_hardware": "Ralink (integrated)",
+    "wlan_24ghz": "b/g/n",
+    "wlan_50ghz": "a/n",
+    "wlan_driver": "unknown",
+    "forum_search": "RT-N76U",
+    "git_search": "RT-N76U",
+    "wikidevi_url": "https://wikidevi.com/wiki/ASUS_RT-N76U"
+}

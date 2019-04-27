@@ -1,0 +1,19 @@
+{
+    "device_type": "Single Board Computer",
+    "brand": "Evaluation boards / unbranded boards",
+    "model": "Minnowboard Max",
+    "availability": "unknown 2018",
+    "target": "x86",
+    "package_architecture": "i386_pentium4",
+    "cpu": "Intel Atom E3825",
+    "cpu_cores": "2",
+    "cpu_mhz": "1333",
+    "flash_mb": "8",
+    "ram_mb": "2048",
+    "ethernet_gbit_ports": "1",
+    "vlan": false,
+    "wlan_driver": "unknown",
+    "device_page": "minnowboard-max",
+    "forum_search": "Minnowboard Max",
+    "git_search": "Minnowboard Max"
+}

@@ -1,0 +1,23 @@
+{
+    "device_type": "Single Board Computer",
+    "brand": "MikroTik",
+    "model": "RB133",
+    "availability": "Discontinued",
+    "supported_since_commit": "https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=a9ffbd94e7c10e55fc4777a84bfd5a5ab4d17729",
+    "supported_since_rel": "7.09",
+    "target": "adm5120",
+    "bootloader": "RouterBOOT",
+    "cpu": "Infineon ADM5120",
+    "cpu_cores": "1",
+    "cpu_mhz": "175",
+    "ram_mb": "32",
+    "ethernet_100m_ports": "3",
+    "vlan": true,
+    "wlan_hardware": "3x mini-PCI",
+    "wlan_driver": "unknown",
+    "device_page": "rb133",
+    "forum_search": "RB133",
+    "git_search": "RB133",
+    "wikidevi_url": "https://wikidevi.com/wiki/MikroTik_RouterBOARD_133_%28RB133%29",
+    "installation_method_s": "see devicepage"
+}

@@ -1,0 +1,23 @@
+{
+    "device_type": "WiFi Router",
+    "brand": "AsiaRF",
+    "model": "AWM-EVB",
+    "availability": "unknown 2018",
+    "target": "ramips",
+    "subtarget": "rt305x",
+    "package_architecture": "mipsel_24kc",
+    "cpu": "Ralink RT5350F",
+    "cpu_cores": "1",
+    "cpu_mhz": "360",
+    "flash_mb": "8",
+    "ram_mb": "32",
+    "ethernet_100m_ports": "2",
+    "vlan": true,
+    "wlan_hardware": "(onboard)",
+    "wlan_24ghz": "b/g/n",
+    "wlan_driver": "unknown",
+    "usb_ports": "1x 2.0",
+    "device_page": "awm-evb",
+    "forum_search": "AWM-EVB",
+    "git_search": "AWM-EVB"
+}

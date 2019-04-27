@@ -1,0 +1,21 @@
+{
+    "device_type": "WiFi Router",
+    "brand": "ZTE",
+    "model": "ZXHN F660",
+    "version": "2.3",
+    "availability": "Discontinued",
+    "unsupported_functions": "Possible to support",
+    "target": "brcm63xx",
+    "cpu": "Broadcom BCM63168",
+    "cpu_cores": "2",
+    "cpu_mhz": "400",
+    "flash_mb": "128NAND",
+    "ethernet_gbit_ports": "4",
+    "comments_network_ports": "Fibre",
+    "wlan_hardware": "Broadcom",
+    "wlan_24ghz": "b/g/n",
+    "wlan_driver": "b43",
+    "usb_ports": "2x 2.0",
+    "forum_search": "ZTE ZXHN F660",
+    "git_search": "ZTE ZXHN F660"
+}

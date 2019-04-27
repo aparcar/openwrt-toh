@@ -1,0 +1,23 @@
+{
+    "device_type": "WiFi Router",
+    "brand": "TP-Link",
+    "model": "TL-WR740N",
+    "version": "v5.1 (UA)",
+    "availability": "unknown 2018",
+    "target": "ar71xx",
+    "subtarget": "generic",
+    "package_architecture": "mips_24kc",
+    "cpu": "Atheros AR9331-AL3A",
+    "cpu_cores": "1",
+    "cpu_mhz": "400",
+    "flash_mb": "4",
+    "ram_mb": "32",
+    "ethernet_100m_ports": "5",
+    "wlan_24ghz": "b/g/n",
+    "wlan_driver": "unknown",
+    "serial": true,
+    "device_page": "tl-wr740n",
+    "owrt_forum_topic_url": "https://forum.openwrt.org/viewtopic.php?id=56944",
+    "forum_search": "TL-WR740N",
+    "git_search": "TL-WR740N"
+}

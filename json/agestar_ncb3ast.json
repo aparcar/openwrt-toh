@@ -1,0 +1,22 @@
+{
+    "device_type": "NAS",
+    "brand": "Agestar",
+    "model": "NCB3AST",
+    "availability": "Discontinued",
+    "cpu": "Star STR9104",
+    "cpu_cores": "1",
+    "flash_mb": "4",
+    "ram_mb": "32",
+    "ethernet_100m_ports": "1",
+    "wlan_driver": "unknown",
+    "usb_ports": "1x 2.0",
+    "sata_ports": "1",
+    "serial": true,
+    "jtag": false,
+    "led_count": "2",
+    "button_count": "2",
+    "device_page": "ncb3ast",
+    "owrt_forum_topic_url": "https://forum.openwrt.org/viewtopic.php?id=31242",
+    "forum_search": "NCB3AST",
+    "git_search": "NCB3AST"
+}

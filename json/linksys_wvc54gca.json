@@ -1,0 +1,22 @@
+{
+    "device_type": "Camera",
+    "brand": "Linksys",
+    "model": "WVC54GCA",
+    "availability": "Discontinued",
+    "unsupported_functions": "Possible to support",
+    "target": "x86",
+    "package_architecture": "i386_pentium4",
+    "cpu": "Geode GX1",
+    "cpu_cores": "1",
+    "flash_mb": "4",
+    "ram_mb": "32",
+    "ethernet_100m_ports": "1",
+    "wlan_hardware": "Ralink RT2561 (mini-PCI)",
+    "wlan_24ghz": "b/g",
+    "wlan_driver": "unknown",
+    "device_page": "wvc54gca",
+    "forum_search": "WVC54GCA",
+    "git_search": "WVC54GCA",
+    "wikidevi_url": "https://wikidevi.com/wiki/Linksys_WVC54GCA",
+    "comments": "Same hardware as Sitecom WL-404 v1"
+}

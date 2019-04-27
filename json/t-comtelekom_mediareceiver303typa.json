@@ -1,0 +1,18 @@
+{
+    "device_type": "other",
+    "brand": "T-Com / Telekom",
+    "model": "Media Receiver 303 Typ A",
+    "availability": "Discontinued 2019",
+    "unsupported_functions": "Unknown if possible",
+    "cpu": "Broadcom BCM7405",
+    "cpu_cores": "1",
+    "cpu_mhz": "400",
+    "flash_mb": "4",
+    "ram_mb": "256",
+    "ethernet_100m_ports": "1",
+    "wlan_driver": "unknown",
+    "device_page": "mr303a",
+    "forum_search": "Media Receiver 303 Typ A",
+    "git_search": "Media Receiver 303 Typ A",
+    "comments": "Device type \"other\" = Harddisk recorder; Discontinued 2019, replaced by MR401"
+}
